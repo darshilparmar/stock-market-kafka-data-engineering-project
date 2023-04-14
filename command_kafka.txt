@@ -13,7 +13,7 @@ Start Zoo-keeper:
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
 Open another window to start kafka
-But first ssh to to your ec2 machine as donw above
+But first ssh to to your ec2 machine as done above
 
 
 Start Kafka-server:
